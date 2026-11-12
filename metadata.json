@@ -1,0 +1,6 @@
+{
+  "name": "HUBAAL SHOP - Customer Debt Management",
+  "description": "Professional Multi-Store Customer Debt Management & Tracking System with flexible itemized credit recording, customer ledgers, and Somali/English localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
